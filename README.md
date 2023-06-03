@@ -6,3 +6,7 @@
 
 
 ![robots](https://github.com/Princess-s-recipe/Naver-Shopping/assets/57484815/ef160716-8df4-4dd1-8bfa-1aef00d15752)
+
+
+## 동작 과정
+<img src = "![GIFMaker_me-min](https://github.com/Princess-s-recipe/Naver-Shopping/assets/57484815/1f1c9126-0037-491f-99d8-8170d2d771b6)">

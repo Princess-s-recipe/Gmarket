@@ -1,5 +1,5 @@
 ## Naver-Shopping
-* 네이버 쇼핑 웹 크롤링
+* Selenium과 BeautifulSoup를 활용한 네이버 쇼핑 웹 크롤링
 * 페이지의 마지막까지 자동으로 페이지를 넘어가면서 크롤링
 
 ## robots.txt

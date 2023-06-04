@@ -15,4 +15,4 @@
 
 
 ## 동작 과정
-<img src = "https://github.com/Princess-s-recipe/Naver-Shopping/assets/57484815/1f1c9126-0037-491f-99d8-8170d2d771b6">
+<img src = "https://github.com/Princess-s-recipe/Gmarket/assets/57484815/ad7b42b1-c419-4aee-81e3-5e1c73f141d4">
